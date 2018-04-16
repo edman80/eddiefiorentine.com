@@ -1,0 +1,19 @@
+{
+  "name": "eddiefiorentine.com",
+  "version": "1.0.0",
+  "description": "A website by yours truly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edman80/eddiefiorentine.com.git"
+  },
+  "author": "Eddie Fiorentine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edman80/eddiefiorentine.com/issues"
+  },
+  "homepage": "https://github.com/edman80/eddiefiorentine.com#readme"
+}
